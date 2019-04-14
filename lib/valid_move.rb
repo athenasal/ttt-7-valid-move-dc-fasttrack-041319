@@ -10,4 +10,5 @@ board [6]
 board [7]
 board [8]
 
+if 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
