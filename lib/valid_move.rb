@@ -11,4 +11,8 @@ board [7]
 board [8]
 
 if board.between(0,8)
+  puts board
+else
+  return "Enter a valid number."
+  
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
